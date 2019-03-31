@@ -1,0 +1,11 @@
+﻿# 忽略nodemodules bowercomponents
+node_modules
+bower_components
+
+# 忽略编译后文件
+dist
+build
+
+npm-debug.log
+debug.log
+
