@@ -1,3 +1,3 @@
-#LayaGame
-##启动
+# LayaGame
+## 启动
 gulp serve
